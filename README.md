@@ -10,7 +10,7 @@
 <div style="display: inline_block;"><br>
   <h3>Favoritas:</h3>
   <img align="center" alt="C" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Cpp" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Python" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
           
 </div>  
 
@@ -20,7 +20,6 @@
   <img align="center" alt="CSS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vue" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Python" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="PHP" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Java" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
