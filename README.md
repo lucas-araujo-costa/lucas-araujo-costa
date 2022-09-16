@@ -19,6 +19,12 @@
 </div>
 
   ##
+  <div>
+    <h3>Languages:</h3>
+    <img src="https://flagcdn.com/br.svg" width="30" alt="Brazilian Portuguese">
+    <img src="https://flagcdn.com/gb.svg" width="30" alt="English">
+    <img src="https://flagcdn.com/jp.svg" width="30" alt="Japanese">
+  </div>
   
 <div>
   <h3>Contact:</h3>
@@ -33,7 +39,7 @@
 
 <div align="center">
   <a href="https://github.com/xhteluk4s">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xtheluk4s&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtheluk4s&layout=compact&langs_count=7&theme=onedark&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xtheluk4s&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtheluk4s&layout=compact&langs_count=7&theme=onedark&locale=pt-br"/>
 </div>
   
