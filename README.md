@@ -2,8 +2,14 @@
   <h1 align="left">Waddup <strong>シ</strong> , I'm Lucas Araujo</h1>
 </div>
 
-<div style="display: inline_block;">
+<div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=xtheluk4s&color=grey" alt="Profile views"/></p>
+  
+  - 💼 I’m currently working at [PBtec](https://github.com/pbtec)
+  - 📚 I'm currently studying Python(Django) / C
+</div>
+
+<div style="display: inline_block;">
   <h3>Most used:</h3>
   <img align="center" alt="C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
