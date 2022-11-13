@@ -6,7 +6,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=xtheluk4s&color=grey" alt="Profile views"/></p>
   
   - 💼 I’m currently working at [PBtec](https://github.com/pbtec)
-  - 📚 I'm currently studying Python(Django) / C
+  - 📚 I'm currently studying React
 </div>
 
 <div style="display: inline_block;">
