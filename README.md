@@ -41,7 +41,7 @@
   <a href = "https://api.whatsapp.com/send?phone=5583986570820"><img src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" target="_blank"></a>
   <a href = "mailto:lucasaraujo1964@gmail.com"><img src="https://img.shields.io/badge/-GMail-05122A?style=flat&logo=gmail" target="_blank"></a>
   <a href="https://twitter.com/xtheluk4s" target="_blank"><img src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" target="_blank"></a> 
-  <a href="https://www.instagram.com/lucasaraujo.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" target="_blank"></a>
+  <a href="https://www.instagram.com/lucasaraujo.c" target="_blank"><img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-araujo-51609b21a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" target="_blank"></a>
 </div>
 
