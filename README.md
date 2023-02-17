@@ -19,13 +19,6 @@
   
 </div>  
 
-<div style="display: inline_block">
-  <h3>I know a little bit (or try to):</h3>
-  <img align="center" alt="Python" title="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Django" title="Django" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="C" title="C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="PHP" title="PHP" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Java" title="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
   ##
@@ -33,7 +26,6 @@
     <h3>Languages:</h3>
     <img src="https://flagcdn.com/br.svg" width="30" alt="Brazilian Portuguese" title="Portuguese">
     <img src="https://flagcdn.com/gb.svg" width="30" height="22" alt="English" title="English">
-    <img src="https://flagcdn.com/jp.svg" width="30" alt="Japanese" title="Japanese">
   </div>
   
 <div>
