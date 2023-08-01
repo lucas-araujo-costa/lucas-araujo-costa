@@ -14,7 +14,6 @@
 </div>  
 
 </div>
-  ##
   <div>
     <h3>Languages:</h3>
     <img src="https://flagcdn.com/br.svg" width="30" alt="Brazilian Portuguese" title="Portuguese">
