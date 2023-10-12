@@ -1,4 +1,4 @@
-## Hi buddy 👋 I'm Lucas.
+## Hi/Olá/こんにちは!
 
 <div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=xtheluk4s&color=grey" alt="Profile views"/></p>
