@@ -1,16 +1,17 @@
 ## Hi/Olá/こんにちは!
 
 <div>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=xtheluk4s&color=grey" alt="Profile views"/></p>
-  
+  - 🎓 I'm majoring in computer science at Unipê
   - 💼 I’m currently working at [PBtec](https://github.com/pbtec)
-  - 📚 I'm currently studying Java ☕
+  - 🔥 I'm currently studying React
 </div>
 
 <div style="display: inline_block;">
-  <img align="center" alt="Java" title="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <h3>Technologies:</h3>
   <img align="center" alt="HTML" title="HTML5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" title="CSS3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
 </div>  
 
 </div>
