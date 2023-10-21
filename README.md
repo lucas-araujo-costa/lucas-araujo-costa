@@ -19,6 +19,7 @@
     <h3>Languages:</h3>
     <img src="https://flagcdn.com/br.svg" width="30" alt="Brazilian Portuguese" title="Portuguese">
     <img src="https://flagcdn.com/gb.svg" width="30" height="22" alt="English" title="English">
+    <img src="https://flagcdn.com/jp.svg" width="30" height="22" alt="Japanese" title="Japanese">
   </div>
   
 <div>
