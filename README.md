@@ -1,10 +1,8 @@
 ## Hi/Olá/こんにちは!
 
-<div>
   - 🎓 I'm majoring in computer science at Unipê
   - 💼 I’m currently working at [PBtec](https://github.com/pbtec)
   - 🔥 I'm currently studying React
-</div>
 
 <div style="display: inline_block;">
   <h3>Technologies:</h3>
