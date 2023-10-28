@@ -1,4 +1,4 @@
-## Hi/Olá/こんにちは!
+## Hi dear 👋
 
   - 🎓 I'm majoring in computer science at Unipê
   - 💼 I’m currently working at [PBtec](https://github.com/pbtec)
