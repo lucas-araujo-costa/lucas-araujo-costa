@@ -1,17 +1,16 @@
-## Hello World 👋 I'm Lucas Araujo
-- 🎓 Studying Computer Science at Unipê
-- 💼 Working at [PBtec](https://github.com/pbtec)
-- 🔥 Studying Next.js
+## Hello World (👋) I'm Lucas Araujo!
+- 🎓 Studying Computer Science at [UNIPÊ](https://unipe.com.br/) (6/8)
+- 💼 Service Desk at [PBtec](https://pbtec.com.br/)
+- 🔥 Mastering React/Next.js
 
 <div style="display: inline_block;">
-  <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJsY2g1NG80bXRqMmZuaXJ4czZxejYybXhjejhmYnoyYTZybHMxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBrB4AzRAzdHqGC4kg/giphy.gif" width="230">
   <h3>Technologies:</h3>
-  <img align="center" alt="Next.js icon" title="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-  <img align="center" alt="React.js icon" title="React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="TypeScript icon" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="JavaScript icon" title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="CSS icon" title="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="HTML icon" title="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Next.js icon" title="Next.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+  <img align="center" alt="React icon" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="TypeScript icon" title="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="JavaScript icon" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="CSS icon" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="HTML icon" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </div>  
 
 ##
@@ -26,7 +25,7 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/xhteluk4s">
+  <a href="https://github.com/luska-a">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luska-a&show_icons=true&theme=react&include_all_commits=true&count_private=true&locale=pt-br"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luska-a&layout=compact&langs_count=7&theme=react&locale=pt-br"/>
 </div>
