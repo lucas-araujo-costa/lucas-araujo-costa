@@ -14,6 +14,8 @@
   <img align="center" alt="HTML icon" title="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </div>  
 
+##
+
 <div>
   <h3>Contact:</h3>
   <a href="https://www.linkedin.com/in/lucas-araujo-51609b21a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
