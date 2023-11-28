@@ -1,10 +1,10 @@
-## Hi dear 👋
-
-  - 🎓 Studying Computer Science at Unipê
-  - 💼 Working at [PBtec](https://github.com/pbtec)
-  - 🔥 Studying Next.js
+## Hello World 👋 I'm Lucas Araujo
+- 🎓 Studying Computer Science at Unipê
+- 💼 Working at [PBtec](https://github.com/pbtec)
+- 🔥 Studying Next.js
 
 <div style="display: inline_block;">
+  <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJsY2g1NG80bXRqMmZuaXJ4czZxejYybXhjejhmYnoyYTZybHMxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBrB4AzRAzdHqGC4kg/giphy.gif" width="230">
   <h3>Technologies:</h3>
   <img align="center" alt="Next.js icon" title="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
   <img align="center" alt="React.js icon" title="React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -13,7 +13,7 @@
   <img align="center" alt="CSS icon" title="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="HTML icon" title="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </div>  
-  
+
 <div>
   <h3>Contact:</h3>
   <a href="https://www.linkedin.com/in/lucas-araujo-51609b21a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
