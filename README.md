@@ -17,7 +17,16 @@
 
 <div>
   <h3>Contact:</h3>
-  <a href="https://www.linkedin.com/in/lucas-araujo-51609b21a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.com/users/329331719851474945" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lucasaraujo1964@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/lucas-araujo-51609b21a" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Lucas Araujo-05122A?style=flat&logo=linkedin" alt="linkedin" />
+  </a>
+  <a href="https://twitter.com/lucasaraujo_js" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-lucasaraujo_js-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+  <a href="https://instagram.com/lucasaraujo.js" target="_blank">
+    <img align="center"src="https://img.shields.io/badge/-lucasaraujo.js-05122A?style=flat&logo=instagram" alt="instagram" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCzWbKoury48IV5y4A0Q2Ppg" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Lucas Araujo-05122A?style=flat&logo=youtube" alt="youtube"/>
+  </a>
 </div>
