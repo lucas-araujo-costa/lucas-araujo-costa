@@ -1,16 +1,16 @@
 ## Hello World (👋) I'm Lucas Araujo!
 - 🎓 Studying Computer Science at [UNIPÊ](https://unipe.com.br/) (6/8)
-- 💼 Service Desk at [PBtec](https://pbtec.com.br/)
+- 💼 Front-end Developer at [Fábrica de Software](https://www.instagram.com/fabricadesoftwareunipe/)
 - 🔥 Mastering React/Next.js
 
 <div style="display: inline_block;">
   <h3>Technologies:</h3>
-  <img align="center" alt="Next.js icon" title="Next.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-  <img align="center" alt="React icon" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="TypeScript icon" title="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="JavaScript icon" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="CSS icon" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="HTML icon" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS icon" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript icon" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="TypeScript icon" title="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="React icon" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Next.js icon" title="Next.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
 </div>  
 
 ##
