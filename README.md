@@ -1,5 +1,5 @@
 ## Hello World (👋) I'm Lucas Araujo!
-- 🎓 Studying Computer Science at [UNIPÊ](https://unipe.com.br/) (6/8)
+- 🎓 Studying Computer Science at [UNIPÊ](https://unipe.com.br/) (7/8)
 - 💼 Front-end Developer at [Fábrica de Software](https://www.instagram.com/fabricadesoftwareunipe/)
 - 🔥 Mastering React/Next.js
 
