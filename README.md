@@ -1,7 +1,7 @@
-## Hey buddy :) I'm Lucas Araujo!
+## Hi! I'm Lucas Araujo!
 - 🎓 Computer Science at [UNIPÊ](https://unipe.com.br/) (8/8) 🎉
-- 💼 Full stack developer at [Gráfica JB](https://www.grafjb.com.br)
-- 🔥 Mastering Laravel
+- 💼 Full stack Developer Intern at [Gráfica JB](https://www.grafjb.com.br)
+- 🔬 Learning PHP/Laravel
 
 <div style="display: inline_block;">
   <img align="center" alt="PHP icon" title="PHP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
