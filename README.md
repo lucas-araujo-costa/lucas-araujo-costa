@@ -1,5 +1,5 @@
 ## Hello World, I'm Lucas Araujo!
-- 🔭 I'm currently working at [Gráfica JB](https://www.grafjb.com.br) as a Full-Stack Developer
+- 🔭 I'm currently working at [Gráfica JB](https://www.grafjb.com.br) as a Full Stack Developer
 - 🌱 I'm currently learning PHP
 - 🧑‍🤝‍🧑 I'm looking to collaborate on web projects focused on sustainability, helping others, and supporting nonprofits that make a positive impact.
 - 💭 Ask me about front-end/mobile development
