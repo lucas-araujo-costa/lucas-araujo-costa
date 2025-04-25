@@ -1,17 +1,17 @@
 ## Hello World, I'm Lucas Araujo!
-- 🔭 I'm currently working at [Gráfica JB](https://www.grafjb.com.br) as a Full Stack Developer
-- 🌱 I'm currently learning PHP
+- 🔭 I'm currently working at [Stalo Software Studio](https://stalo.digital/) as a Backend Developer
+- 🌱 I'm currently learning Laravel
 - 🧑‍🤝‍🧑 I'm looking to collaborate on web projects focused on sustainability, helping others, and supporting nonprofits that make a positive impact.
-- 💭 Ask me about front-end/mobile development
 - 😁 Pronouns: he/him
 - ⚡Fun fact: bodybuilding enthusiast 💪
 
 <div style="display: inline_block">
+  <img align="center" alt="Lucas HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="Lucas CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img align="center" alt="Lucas JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Lucas React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lucas PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Lucas Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Lucas Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 ##
